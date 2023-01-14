@@ -1,0 +1,332 @@
+.form{
+    position: absolute;
+    top: -28px;
+}
+.register{
+    position: absolute;
+width: 464px;
+height: 97px;
+left: 620px;
+top: -59px;
+
+font-family: 'Baloo Bhaijaan 2';
+font-style: normal;
+font-weight: 500;
+font-size: 53px;
+line-height: 110px;
+
+
+color: #476837;
+}
+#name{
+    position: absolute;
+width: 275px;
+height: 57px;
+left: 89px;
+top: 103px;
+
+font-family: 'Baloo Bhaijaan 2';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 68px;
+
+color: #000000;
+}
+#nametext{
+    position: absolute;
+width: 626px;
+height: 67px;
+left: 84px;
+top: 202px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+#password{
+    position: absolute;
+width: 275px;
+height: 57px;
+left: 84px;
+top: 248px;
+
+font-family: 'Baloo Bhaijaan 2';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 68px;
+
+color: #000000;
+}
+#passtext{
+    position: absolute;
+width: 626px;
+height: 67px;
+left: 84px;
+top: 345px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+#confirm{
+    position: absolute;
+width: 399px;
+height: 57px;
+left: 84px;
+top: 389px;
+
+font-family: 'Baloo Bhaijaan 2';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 68px;
+
+color: #000000;
+}
+#confirmtext{
+    position: absolute;
+width: 626px;
+height: 67px;
+left: 84px;
+top: 486px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+#email{
+    position: absolute;
+width: 275px;
+height: 57px;
+left: 84px;
+top: 522px;
+
+font-family: 'Baloo Bhaijaan 2';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 68px;
+
+color: #000000;
+}
+#emailtext{
+    position: absolute;
+width: 626px;
+height: 67px;
+left: 84px;
+top: 621px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+#dob{
+    position: absolute;
+width: 275px;
+height: 57px;
+left: 84px;
+top: 661px;
+
+font-family: 'Baloo Bhaijaan 2';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 68px;
+
+color: #000000;
+}
+#daytext{
+    position: absolute;
+width: 100px;
+height: 83px;
+left: 84px;
+top: 763px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+#monthtext{
+    position: absolute;
+width: 100px;
+height: 83px;
+left: 275px;
+top: 763px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+#yeartext{
+    position: absolute;
+    width: 155px;
+    height: 83px;
+    left: 444px;
+    top: 763px;
+    
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+input::placeholder{
+    text-align: center;
+    font-size: 30px;
+}
+#address{
+    position: absolute;
+width: 275px;
+height: 57px;
+left: 813px;
+top: 97px;
+
+font-family: 'Baloo Bhaijaan 2';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 68px;
+
+color: #000000;
+}
+#addresstext{
+    position: absolute;
+width: 697px;
+height: 210px;
+left: 808px;
+top: 202px;
+vertical-align:top;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+#phone{
+    position: absolute;
+width: 275px;
+height: 57px;
+left: 813px;
+top: 389px;
+
+font-family: 'Baloo Bhaijaan 2';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 68px;
+
+color: #000000;
+
+}
+#phonetext{
+    position: absolute;
+width: 697px;
+height: 67px;
+left: 808px;
+top: 486px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+#disability{
+    position: absolute;
+width: 486px;
+height: 57px;
+left: 813px;
+top: 522px;
+
+font-family: 'Baloo Bhaijaan 2';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 68px;
+
+color: #000000;
+}
+#disabilitytext{
+    position: absolute;
+width: 697px;
+height: 67px;
+left: 808px;
+top: 621px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+#udid{
+    position: absolute;
+width: 353px;
+height: 57px;
+left: 813px;
+top: 661px;
+
+font-family: 'Baloo Bhaijaan 2';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 68px;
+
+color: #000000;
+}
+#udidtext{
+    position: absolute;
+width: 697px;
+height: 67px;
+left: 808px;
+top: 764px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+#accno{
+    position: absolute;
+width: 275px;
+height: 57px;
+left: 813px;
+top: 805px;
+
+font-family: 'Baloo Bhaijaan 2';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 68px;
+
+color: #000000;
+}
+#accnotext{
+    position: absolute;
+width: 697px;
+height: 67px;
+left: 808px;
+top: 907px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+.section2{
+    position: absolute;
+    left: -19px;
+    top: -29px;
+}
+#login{
+    position: absolute;
+width: 162px;
+height: 54px;
+left: 1052px;
+top: 1091px;
+cursor: pointer;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 150px;
+
+color: #000000;
+}
+a{
+background-color: #000000;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Inter';
+    width: 204px;
+    font-style: normal;
+    display: inline-block;
+    font-size: 50px;
+    border-radius: 10px;
+    bottom: 0;
+    margin-top: 1155px;
+    margin-left: 1230px;
+}

@@ -1,0 +1,124 @@
+.verify{
+    position: relative;
+    width: 794px;
+    height: 617px;
+    background: #C8D2C3;
+    border-radius: 72px;
+    left: 213px;
+    top: 70px;
+}
+#verification{
+    position: absolute;
+    width: 351px;
+    height: 97px;
+    left: 244px;
+    top: -73px;
+    font-family: 'Baloo Bhaijaan 2';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 110px;
+    color: #476837;
+}
+#sentence{
+    position: absolute;
+width: 785px;
+height: 181px;
+left: 349px;
+top: 129px;
+
+font-family: 'Baloo Bhaijaan 2';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 82px;
+
+color: #000000;
+
+}
+#text1{
+    position: absolute;
+    width: 74px;
+    height: 79px;
+    left: 305px;
+    top: 429px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+#text2{
+    position: absolute;
+width: 74px;
+height: 79px;
+left: 478px;
+top: 429px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+#text3{
+    position: absolute;
+width: 74px;
+height: 79px;
+left: 656px;
+top: 429px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+#text4{
+    position: absolute;
+width: 74px;
+height: 79px;
+left: 833px;
+top: 429px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+#receive{
+    position: absolute;
+    width: 514px;
+    height: 224px;
+    left: 401px;
+    top: 564px;
+    font-family: 'Baloo Bhaijaan 2';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 82px;
+    color: #AC5959;
+}
+#resend{
+    position: absolute;
+    width: 140px;
+    height: fit-content;
+    left: 546px;
+    top: 639px;
+    font-family: 'Baloo Bhaijaan 2';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 82px;
+    cursor: pointer;
+    color: #476837;
+}
+#resend:hover{
+    color: red;
+}
+.one{
+    position: absolute;
+    top: -49px;
+    width: 10px;
+}
+.two{
+    position: absolute;
+    top: -114px;
+}
+.body{
+    position: fixed;
+}
+.whole{
+    position: absolute;
+    left: 150px;
+    top: -10px;
+}

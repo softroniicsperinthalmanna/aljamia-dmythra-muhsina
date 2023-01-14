@@ -1,0 +1,166 @@
+.whole{
+    position: fixed;
+}
+.box1{
+    position: relative;
+width: 370px;
+height: 757px;
+top: -10px;
+left: -19px;
+background: #D9D9D9;
+border-radius: 21px;
+}
+#close{
+    position: absolute;
+width: 34px;
+height: 34px;
+left: 320px;
+top: 11px;
+cursor: pointer;
+
+
+z-index: 2;
+}
+.box2{
+    position: absolute;
+    width: 370px;
+    height: 160px;
+    left: -19px;
+    top: -8px;
+    border-top-right-radius: 21px;
+    background: rgb(90, 162, 90);
+    z-index: 1;
+}
+#logo{
+    position: absolute;
+width: 306px;
+height: 298px;
+left: -16px;
+top: -69px;
+
+background: url(DM.png);
+}
+#pf1{
+    position: absolute;
+width: 85px;
+height: 85px;
+left: 16px;
+top: 203px;
+
+background: #4095D2;
+border-radius: 85px;
+}
+#pf2{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 37px;
+top: 221px;
+}
+#pf3{
+    position: absolute;
+    width: 137px;
+    height: 59px;
+    left: 138px;
+    top: 196px;
+    font-family: 'Mako';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 47px;
+    color: #000000;
+    cursor: pointer;
+}
+#pf3:hover{
+    color: rgb(90, 162, 90);
+}
+#pf4{
+    position: absolute;
+width: 85px;
+height: 85px;
+left: 16px;
+top: 362px;
+
+background: url(home.png);
+}
+#pf5{
+    position: absolute;
+width: 137px;
+height: 59px;
+left: 138px;
+top: 355px;
+cursor: pointer;
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+
+color: #000000;
+}
+#pf5:hover{
+    color: rgb(90, 162, 90);
+}
+.wpf1{
+    position: absolute;
+    top: -33px;
+}
+.wpf2{
+    position: absolute;
+    top: -52px;
+}
+#pf6{
+    position: absolute;
+width: 85px;
+height: 85px;
+left: 17px;
+top: 448px;                                                                                                                          
+
+background: url(feedback.png);
+}
+#pf7{
+    position: absolute;
+width: 169px;
+height: 59px;
+left: 138px;
+top: 439px;
+cursor: pointer;
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+
+color: #000000;
+}
+#pf7:hover{
+    color: rgb(90, 162, 90);
+}
+#pf8{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 161px;
+top: 660px;
+
+background: url(logout.png);
+}
+#pf9{
+    position: absolute;
+width: 128px;
+height: 59px;
+left: 227px;
+top: 634px;
+cursor: pointer;
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+
+color: #000000;
+
+}
+#pf9:hover{
+    color: rgb(255, 0, 0);
+}

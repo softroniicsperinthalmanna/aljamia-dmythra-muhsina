@@ -1,0 +1,77 @@
+.box1{
+    position: relative;
+width: 705px;
+height: 519px;
+left: 412px;
+top: 103px;
+background-color: #575757;
+border-radius: 27px;
+}
+#text1{
+    position: absolute;
+width: 618px;
+height: 105px;
+left: 88px;
+top: 59px;
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 84px;
+
+color: #FFFFFF;
+}
+.box2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 705px;
+height: 125px;
+left: 420px;
+top: 377px;
+z-index: 1;
+background: #3E3838;
+border-bottom: 3px solid #787777;
+}
+#text2{
+    position: absolute;
+width: 226px;
+height: 72px;
+left: 263px;
+top: -28px;
+color: #ffffff;
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 84px;
+border-radius: 10px;
+z-index: 2;
+cursor: pointer;
+}
+.box3{
+    position: absolute;
+width: 705px;
+height: 125px;
+left: 420px;
+top: 502px;
+border-bottom-left-radius: 27px;
+border-bottom-right-radius: 27px;
+background: #3E3838;
+z-index: 1;
+}
+#text3{
+    position: absolute;
+width: 208px;
+height: 72px;
+left: 263px;
+top: -25px;
+cursor: pointer;
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 84px;
+z-index: 2;
+color: #ffffff;
+}
