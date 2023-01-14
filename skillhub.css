@@ -1,0 +1,447 @@
+#logo{
+    position: absolute;
+    width: 337px;
+    height: 324px;
+left:-14px;
+top: -80px;
+}
+#header{
+    height: 202px;
+    margin-top: -8px;
+    width: 1519px;
+    margin-left: -8px;
+    box-shadow: 0px 1px 9px black;
+    background: white;
+    transition: margin-left .5s;
+    border-bottom: 3px solid #476837;
+}
+#ul{
+  margin-left: 405px;
+  margin-top: 38px;
+}
+#list1{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 26px;
+    cursor: pointer;
+    border: 2px solid rgb(255, 255, 255) ;
+    background-color: #849a78;
+    border-radius: 50px;
+    color: white;
+    transition: 1s ease;
+}
+#list2{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 26px;
+    cursor: pointer;
+    transition: 1s ease;
+}
+#list3{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 26px;
+    cursor: pointer;
+    transition: 1s ease;
+}
+#list4{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 26px;
+    cursor: pointer;
+    transition: 1s ease;
+}
+#list2:hover{
+    border: 2px solid rgb(255, 255, 255) ;
+    background-color: #849a78;
+    border-radius: 50px;
+    color: white;
+}
+#list3:hover{
+    border: 2px solid rgb(255, 255, 255) ;
+    background-color: #849a78;
+    border-radius: 50px;
+    color: white;
+}
+#list4:hover{
+    border: 2px solid rgb(255, 255, 255) ;
+    background-color: #849a78;
+    border-radius: 50px;
+    color: white;
+}
+#profile{
+    height: 40px;
+      margin-left: 1425px;
+      opacity: inherit;
+      cursor: pointer;
+      transition: 0.5s ease;
+  }
+  #profile:hover{
+    opacity: 0.5;
+  }
+  #img{
+    width: 1519px;
+    margin-top: 0px;
+    opacity: 0.5;
+    margin-left: -8px;
+    height: 700px;
+    border-radius: 0px 0px 100px 100px;
+    border-bottom: 4px solid;
+  }
+  #quotes{
+    font-family: system-ui;
+    font-size: 51px;
+    opacity: 0.;
+    font-weight: 700;
+    width: 888px;
+    margin-left: 383px;
+    margin-top: -468px;
+}
+#skill-head{
+    height: 100px;
+    margin-left: -8px;
+    background-color: #cdecd7;
+    margin-top: 327px;
+    width: 1519px;
+}
+#skill-left{
+    height: 2300px;
+    width: 250px;
+    background-color: #cdecd7;
+    margin-left: -8px;
+    margin-top: 26px;
+}
+#skill-right{
+    height: 2300px;
+    width: 250px;
+    float: right;
+    background-color: #cdecd7;
+    margin-top: -2300px;
+    margin-right: -8px;
+}
+#skill-search{
+    margin-top: 29px;
+    margin-left: 230px;
+    width: 311px;
+    height: 47px;
+    border-radius: 5px;
+    font-family: 'poppins';
+    font-size: 17px;
+    padding-left: 35px;
+}
+#search-img{
+    height: 14px;
+    margin-left: -305px;
+    opacity: 0.6;
+
+}
+#search-button{
+    margin-left: 300px;
+    height: 38px;
+    border-radius: 7px;
+    font-family: 'Poppins';
+    border: white;
+    cursor: pointer;
+    color: white;
+    background: #758575;
+}
+.post-border{
+    height: 700px;
+    width: 700px;
+    border: 4px solid #bababa;
+    margin-top: -2255px;
+    margin-left: 403px;
+    border-radius: 9px;
+}
+.post-header{
+    height: 80px;
+    background-color: #ffffff;
+    border-bottom: 2px solid #dadada;
+    box-shadow: 0px 2px 4px #dadada;
+}
+.post-profile{
+    height: 64px;
+    width: 64px;
+    border-radius: 52px;
+    margin-left: 23px;
+    margin-top: 8px;
+}
+.post-name{
+    font-family: 'poppins';
+    font-size: 21px;
+    font-weight: 500;
+    margin-left: 106px;
+    margin-top: -52px;
+}
+.post{
+   width: 698px;
+   height: 500px;
+   margin-left: 1px;
+   margin-top: 1px;
+}
+.post-like{
+    height: 30px;
+    margin-left: 10px;
+}
+.num-likes{
+    font-family: 'poppins';
+    margin-top: 1px;
+    margin-left: 4px;
+    color: #456436;
+}
+.post-name1{
+    font-family: system-ui;
+    font-size: 19px;
+    font-weight: 600;
+    margin-left: 3px;
+    margin-top: -9px;
+    color: rgb(0, 0, 0);
+}
+.post-caption{
+    margin-left: 91px;
+    font-size: 13px;
+    margin-top: -41px;
+    font-family: 'poppins';
+}
+.post-border1{
+    height: 700px;
+    width: 700px;
+    border: 4px solid #bababa;
+    margin-top: 41px;
+    margin-left: 403px;
+    border-radius: 9px;
+}
+.post-caption1{
+    margin-left: 118px;
+    font-size: 13px;
+    margin-top: -41px;
+    font-family: 'poppins';
+}
+.sponsor{
+    color: #636363;
+    margin-left: 561px;
+    margin-top: 30px;
+    height: 47px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    border: 2px solid #456436;
+    width: 102px;
+    background: #ffffff;
+    font-family: 'poppins';
+    font-weight: bolder;
+}
+.sponsor:hover{
+    background-color: #456436;
+    color: white;
+    border: #636363;
+}
+.ippp{
+    height: auto;
+    width: auto;
+    margin-top: -71px;
+    margin-left: 20px;
+}
+.post-border2{
+    height: 700px;
+    width: 700px;
+    border: 4px solid #bababa;
+    margin-top: 41px;
+    margin-left: 403px;
+    border-radius: 9px;
+}
+.post-caption2{
+        margin-left: 89px;
+        font-size: 13px;
+        margin-top: -41px;
+        font-family: 'poppins';
+}
+.footer{
+    height: 600px;
+    margin-left: -8px;
+    margin-top: 70px;
+    width: 1519px;
+    background-color: #606060;
+  }
+  #inner-content{
+    margin-left: 466px;
+    font-size: 24px;
+    margin-top: 12px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #ffffff;
+  }
+  .round{
+    margin-left: 380px;
+    width: 60px;
+    height: 60px;
+    border-radius: 69px;
+    border: 5px solid white;
+    background: white;
+  }
+  .round1{
+    margin-left: 545px;
+    width: 60px;
+    margin-top: -70px;
+    height: 60px;
+    border-radius: 69px;
+    border: 5px solid white;
+    background: white;
+  }
+  .round2{
+    margin-left: 713px;
+    width: 60px;
+    margin-top: -70px;
+    height: 60px;
+    border-radius: 69px;
+    border: 5px solid white;
+    background: white;
+  }
+  .round3{
+    margin-left: 878px;
+    width: 60px;
+    margin-top: -70px;
+    height: 60px;
+    border-radius: 69px;
+    border: 5px solid white;
+    background: white;
+  }
+  .round4{
+    margin-left: 1044px;
+    width: 60px;
+    margin-top: -70px;
+    height: 60px;
+    border-radius: 69px;
+    border: 5px solid white;
+    background:white;
+  }
+  .line1{
+    height: 1px;
+    margin-top: 69px;
+    width: 934px;
+    background-color: #ffffff;
+    margin-left: 279px;
+
+  }
+  #gmail{
+    margin-top: -27px;
+    margin-left: 466px;
+    font-size: 21px;
+    font-weight: bold;
+    color: #d6c9c9;
+  }
+  #mobile{
+      margin-top: -27px;
+      margin-left: 466px;
+      font-size: 21px;
+      font-weight: bold;
+      color: #d6c9c9;
+    }
+    #instagram{
+      margin-top: -29px;
+    margin-left: 466px;
+    font-size: 21px;
+    font-weight: bold;
+    color: #d6c9c9;
+    }
+    #img0{
+      height: 20px;
+      width: 20px;
+      margin-left: 433px;
+      margin-top: 42px;
+
+    }
+    #img2{
+      height: 20px;
+      width: 20px;
+      margin-left: 433px;
+      margin-top: 11px;
+
+    }
+    #img3{
+      height: 20px;
+      width: 20px;
+      margin-left: 433px;
+      margin-top: 10px;
+
+    }
+    #img4{
+      height: 20px;
+      width: 20px;
+      margin-left: 433px;
+      margin-top: 10px;
+    }
+    #img5{
+      height: 20px;
+      width: 20px;
+      margin-left: 433px;
+      margin-top: 10px;
+    }
+    #twitter{
+      margin-top: -29px;
+    margin-left: 466px;
+    font-size: 21px;
+    font-weight: bold;
+    color: #d6c9c9;
+    }
+    #facebook{
+        margin-top: -29px;
+      margin-left: 466px;
+      font-size: 21px;
+      font-weight: bold;
+      color: #d6c9c9;
+      }
+    #contactus{
+        float: right;
+        font-family: 'poppins','sans-serif';
+        margin-right: 63px;
+        margin-top: -59px;
+        font-size: 20px;
+        color: rgb(0, 0, 0);
+        transition: 1s ease;
+        cursor: pointer;
+    }
+    #contactus:hover{
+      color: #d6c9c9;
+    }
+#profile{
+  height: 40px;
+    margin-left: 1425px;
+    opacity: inherit;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+#profile:hover{
+  opacity: 0.5;
+}
+#back{
+  width: 37px;
+  margin-top: 10px;
+  float: left;
+  cursor: pointer;
+  margin-left: 18px;
+}
+#feedback{
+  float: right;
+  font-family: 'poppins','sans-serif';
+  margin-right: 244px;
+  margin-top: -59px;
+  font-size: 20px;
+  color: black;
+  transition: 1s ease;
+  cursor: pointer;
+}
+#feedback:hover{
+  color: #d6c9c9;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    transition: 1s ease;
+  }
+.link:hover{
+    color: white;
+  }

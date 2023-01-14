@@ -1,0 +1,152 @@
+
+#inner-box{
+    height: 519px;
+    margin-top: 0px;
+    width: 850px;
+    box-shadow: 1px 3px 15px 1px black;
+    margin-left: 328px;
+    background-color: white;
+    border-radius: 11px;
+    overflow-y: scroll;
+}
+.back{
+    width: 37px;
+    margin-top: -17px;
+    float: left;
+    cursor: pointer;
+    margin-left: 18px;
+  }
+  #heading{
+    margin-left: 330px;
+    margin-top: 87px;
+    font-family: system-ui;
+    color: rgb(224, 226, 229);
+  }
+  #rhl{
+    color: #476837;
+    font-family: 'poppins';
+    margin-left: 17px;
+    font-weight: 800;
+    font-size: 22px;
+  }
+  #box1{
+    height: 160px;
+    border-radius: 3px;
+    width: 497px;
+    margin-left: 17px;
+    background-color: rgb(155, 153, 153);
+    margin-top: -11px;
+  }
+  #feedback{
+    font-family: 'poppins';
+    font-size: 17px;
+    width: 366px;
+    margin-left: 10px;
+  }
+  #str1{
+    height: 27px;
+    margin-left: 11px
+  }
+  #str2{
+    height: 27px;
+    margin-left: 11px
+  }
+  #str3{
+    height: 27px;
+    margin-left: 11px
+  }
+  #str4{
+    height: 27px;
+    margin-left: 11px
+  }
+  #str5{
+    height: 27px;
+    margin-left: 11px
+  }
+  #rhl1{
+    color: #476837;
+    font-family: 'poppins';
+    margin-left: 326px;
+    margin-top: 87px;
+    font-weight: 800;
+    font-size: 22px;
+  }
+  #box2{
+    height: 160px;
+    border-radius: 3px;
+    width: 497px;
+    margin-right: 11px;
+    float: right;
+    background-color: rgb(155, 153, 153);
+    margin-top: -18px;
+  }
+  #feedback1{
+    font-family: 'poppins';
+    font-size: 17px;
+    width: 366px;
+    margin-top: 3px;
+    margin-left: 10px;
+  }
+  #str6{
+    height: 27px;
+    margin-left: 11px
+  }
+  #str7{
+    height: 27px;
+    margin-left: 11px
+  }
+  #str8{
+    height: 27px;
+    margin-left: 11px
+  }
+  #str9{
+    height: 27px;
+    margin-left: 11px
+  }
+  #str10{
+    height: 27px;
+    margin-left: 11px
+  }
+  #rhl2{
+    color: #476837;
+    font-family: 'poppins';
+    margin-left: 17px;
+    margin-top: 240px;
+    font-weight: 800;
+    font-size: 22px;
+  }
+  #box3{
+    height: 160px;
+    border-radius: 3px;
+    width: 497px;
+    margin-left: 17px;
+    background-color: rgb(155, 153, 153);
+    margin-top: -18px;
+  }
+  #feedback2{
+    font-family: 'poppins';
+    font-size: 17px;
+    width: 366px;
+    margin-top: 3px;
+    margin-left: 10px;
+  }
+  #str11{
+    height: 27px;
+    margin-left: 11px
+  }
+  #str12{
+    height: 27px;
+    margin-left: 11px
+  }
+  #str13{
+    height: 27px;
+    margin-left: 11px
+  }
+  #str14{
+    height: 27px;
+    margin-left: 11px
+  }
+  #str15{
+    height: 27px;
+    margin-left: 11px
+  }
