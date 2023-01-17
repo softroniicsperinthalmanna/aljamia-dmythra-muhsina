@@ -1,0 +1,315 @@
+.header{
+    height: 135px;
+    width: 1536px;
+    background: #36373E;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+.logo{
+    height: 187px;
+    margin-top: -26px;
+}
+#profile{
+    height: 50px;
+    float: right;
+    margin-right: 79px;
+    margin-top: 40px;
+    transition: 0.5s ease;
+    cursor: pointer;
+  }
+  #profile:hover{
+    opacity: 0.5;
+  }
+  .left-side{
+    background: #57C087;
+    height: 610px;
+    margin-left: -8px;
+    width: 250px;
+  }
+  .counting{
+    margin-left: 35px;
+  }
+  #dash{
+    font-size: 19px;
+    transition: 0.5s ease;
+    margin-top: -47px;
+    margin-left: 58px;
+    width: 250px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 13px;
+  }
+  .user1{
+    height: 41px;
+    margin-left: 6px;
+    margin-top: 15px;
+  }
+  #user{
+    margin-left: 58px;
+    font-size: 19px;
+    margin-top: -35px;
+    width: 109px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  #user:hover{
+    color: white;
+    font-size: 20px;
+  }
+  .user2{
+    height: 41px;
+    margin-left: 6px;
+    margin-top: 15px;
+  }
+  #user1{
+    margin-left: 58px;
+    font-size: 19px;
+    margin-top: -41px;
+    width: 109px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  #user1:hover{
+    color: white;
+    font-size: 20px;
+  }
+  .user3{
+    height: 41px;
+    margin-left: 6px;
+    margin-top: 15px;
+  }
+  #user2{
+    margin-left: 58px;
+    font-size: 19px;
+    margin-top: -41px;
+    width: 109px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  #user2:hover{
+    color: white;
+    font-size: 20px;
+  }
+  .user4{
+    height: 41px;
+    margin-left: 6px;
+    margin-top: 15px;
+  }
+  #user3{
+    margin-left: 58px;
+    font-size: 19px;
+    margin-top: -38px;
+    width: 109px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  #user3:hover{
+    color: white;
+    font-size: 20px;
+  }
+  .user5{
+    height: 41px;
+    margin-left: 6px;
+    margin-top: 15px;
+  }
+  #user4{
+    margin-left: 58px;
+    font-size: 19px;
+    margin-top: -38px;
+    width: 109px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  #user4:hover{
+    color: white;
+    font-size: 20px;
+  }
+  .user6{
+    height: 41px;
+    margin-left: 6px;
+    margin-top: 15px;
+  }
+  #user7{
+    margin-left: 58px;
+    font-size: 19px;
+    margin-top: -38px;
+    width: 109px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  #user7:hover{
+    color: white;
+    font-size: 20px;
+  }
+  #user5{
+    margin-left: 151px;
+    font-size: 19px;
+    color: #7c3636;
+    margin-top: 57px;
+    font-weight: 700;
+    width: 109px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+  #user5:hover{
+    color: white;
+    font-size: 20px;
+  }
+  .no-provided{
+    height: 200px;
+    width: 250px;
+    margin-left: 278px;
+    background: #858181;
+    margin-top: -574px;
+    box-shadow: 0px 0px 6px 1px black;
+    border-radius: 4px;
+  }
+  .no-booking{
+    height: 200px;
+    width: 250px;
+    margin-left: 570px;
+    background: #858181;
+    margin-top: -219px;
+    box-shadow: 0px 0px 6px 1px black;
+    border-radius: 4px;
+  }
+  .to-cash{
+    height: 200px;
+    width: 250px;
+    margin-left: 863px;
+    background: #858181;
+    margin-top: -219px;
+    box-shadow: 0px 0px 6px 1px black;
+    border-radius: 4px;
+  }
+  .no-ordered{
+    height: 200px;
+    width: 250px;
+    margin-left: 1156px;
+    background: #858181;
+    margin-top: -219px;
+    box-shadow: 0px 0px 6px 1px black;
+    border-radius: 4px;
+  }
+  .count-img{
+    height: 100px;
+    margin-top: 5px;
+    margin-left: 5px;
+  }
+  #head1{
+    margin-top: -95px;
+    margin-left: 137px;
+    color: white;
+    font-size: 80px;
+    font-family: sans-serif;
+  }
+  #head2{
+    margin-top: -95px;
+    margin-left: 134px;
+    color: white;
+    font-size: 80px;
+    font-family: sans-serif;
+  }
+  #head3{
+    margin-top: -74px;
+    margin-left: 103px;
+    color: white;
+    font-size: 37px;
+    font-family: sans-serif;
+  }
+  #head4{
+    margin-top: -95px;
+    margin-left: 137px;
+    color: white;
+    font-size: 80px;
+    font-family: sans-serif;
+  }
+  #desc1{
+    font-family: system-ui;
+    margin-top: -40px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 23px;
+    color: #3c3c3c;
+  }
+  #desc2{
+    font-family: system-ui;
+    margin-top: -40px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 23px;
+    color: #3c3c3c;
+  }
+  #desc3{
+    font-family: system-ui;
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 23px;
+    color:#3c3c3c;
+  }
+  #desc4{
+    font-family: system-ui;
+    margin-top: -40px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 23px;
+    color:#3c3c3c;
+  }
+  .user7{
+    height: 34px;
+    margin-left: 6px;
+    margin-top: 15px;
+  }
+  .bx{
+    height: 70px;
+    background: gray;
+  }
+  #user-head{
+    margin-left: 278px;
+    font-family: system-ui;
+    margin-top: 56px;
+    color: brown;
+  }
+ table{
+  margin-left: 275px;
+    width: 79%;
+    background-color: #9b9a9a;
+    border-radius: 4px;
+    box-shadow: -2px 2px 4px black;
+    overflow-y: scroll;
+ }
+ #tr1{
+  height: 84px;
+    font-family: 'poppins';
+    font-size: 21px;
+    color: #416341;
+    border: 2px solid #3c3c3c;
+
+ }
+ #tr2{
+  height: 66px;
+    font-family: 'poppins';
+    font-weight: 600;
+    text-align: center;
+    border-bottom: 2px solid;
+ }
+ th{
+  border-bottom: 1px solid rgb(180, 177, 177);
+ }
+ #time{
+  margin-left: 56px;
+    font-size: 11px;
+    margin-top: 13px;
+    color: #742a2a;
+ }
+ .link1{
+  text-decoration: none;
+  color: black;
+ }

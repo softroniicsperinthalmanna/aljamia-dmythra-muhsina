@@ -1,0 +1,249 @@
+.header{
+    height: 135px;
+    width: 1536px;
+    background: #36373E;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+.logo{
+    height: 187px;
+    margin-top: -26px;
+}
+#profile{
+    height: 50px;
+    float: right;
+    margin-right: 79px;
+    margin-top: 40px;
+    transition: 0.5s ease;
+    cursor: pointer;
+  }
+  #profile:hover{
+    opacity: 0.5;
+  }
+  .left-side{
+    background: #57C087;
+    height: 610px;
+    margin-left: -8px;
+    width: 250px;
+  }
+  .counting{
+    margin-left: 35px;
+  }
+  #dash{
+    font-size: 19px;
+    transition: 0.5s ease;
+    margin-top: -47px;
+    margin-left: 58px;
+    width: 250px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 13px;
+    cursor: pointer;
+  }
+  #dash:hover{
+    color: white;
+    font-size: 20px;
+  }
+  .user1{
+    height: 41px;
+    margin-left: 6px;
+    margin-top: 15px;
+  }
+  #user{
+    margin-left: 58px;
+    font-size: 19px;
+    margin-top: -35px;
+    width: 109px;
+    cursor: pointer;
+    transition: 0.5s ease;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  #user:hover{
+    color: white;
+    font-size: 20px;
+  }
+  .user2{
+    height: 41px;
+    margin-left: 6px;
+    margin-top: 15px;
+  }
+  #user1{
+    margin-left: 58px;
+    font-size: 19px;
+    margin-top: -41px;
+    width: 109px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  #user1:hover{
+    color: white;
+    font-size: 20px;
+  }
+  .user3{
+    height: 41px;
+    margin-left: 6px;
+    margin-top: 15px;
+  }
+  #user2{
+    margin-left: 58px;
+    font-size: 19px;
+    margin-top: -41px;
+    width: 109px;
+    transition: 0.5s ease;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  .user4{
+    height: 41px;
+    margin-left: 6px;
+    margin-top: 15px;
+  }
+  #user3{
+    margin-left: 58px;
+    font-size: 19px;
+    margin-top: -38px;
+    width: 109px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  #user3:hover{
+    color: white;
+    font-size: 20px;
+  }
+  .user5{
+    height: 41px;
+    margin-left: 6px;
+    margin-top: 15px;
+  }
+  #user4{
+    margin-left: 58px;
+    font-size: 19px;
+    margin-top: -38px;
+    width: 109px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  #user4:hover{
+    color: white;
+    font-size: 20px;
+  }
+  .user6{
+    height: 41px;
+    margin-left: 6px;
+    margin-top: 15px;
+  }
+  #user7{
+    margin-left: 58px;
+    font-size: 19px;
+    margin-top: -38px;
+    width: 109px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  #user7:hover{
+    color: white;
+    font-size: 20px;
+  }
+  #user5{
+    margin-left: 151px;
+    font-size: 19px;
+    color: #7c3636;
+    margin-top: 57px;
+    font-weight: 700;
+    width: 109px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+  #user5:hover{
+    color: white;
+    font-size: 20px;
+  }
+  .user7{
+    height: 34px;
+    margin-left: 6px;
+    margin-top: 15px;
+  }
+  .bx{
+    height: 70px;
+    background: gray;
+  }
+  #user-head{
+    font-family: system-ui;
+    margin-top: -548px;
+    color: rgb(36, 36, 44);
+    margin-left: 600px;
+    transition: 0.5s ease;
+  }
+  #user-head1{
+    font-family: system-ui;
+    margin-top: -63px;
+    color: brown;
+    cursor: pointer;
+    transition: 0.5s ease;
+    margin-left: 798px;
+  }
+  #user-head1:hover{
+    color: rgb(69, 69, 107);
+  }
+  #user-head2{
+    font-family: system-ui;
+    margin-top: -63px;
+    color: brown;
+    cursor: pointer;
+    transition: 0.5s ease;
+    margin-left: 965px;
+  }
+  #user-head2:hover{
+    color: rgb(69, 69, 107);
+  }
+ table{
+  margin-left: 340px;
+  width: 71%;
+  margin-top: 57px;
+    background-color: #9b9a9a;
+    border-radius: 4px;
+    box-shadow: -2px 2px 4px black;
+    overflow-y: scroll;
+ }
+ #tr1{
+  height: 84px;
+    font-family: 'poppins';
+    font-size: 21px;
+    color: #416341;
+    border: 2px solid #3c3c3c;
+
+ }
+ #tr2{
+  height: 66px;
+    font-family: 'poppins';
+    font-weight: 600;
+    text-align: center;
+    border-bottom: 2px solid;
+ }
+ th{
+  border-bottom: 1px solid rgb(180, 177, 177);
+ }
+ .btn{
+  height: 41px;
+    width: 103px;
+    font-family: sans-serif;
+    background: #3F7C3A;
+    border: none;
+    color: white;
+    transition: 0.5s ease;
+    cursor: pointer;
+    font-weight: 700;
+ }
+ .btn:hover{
+  background-color: #36373E;
+ }
+ .link{
+  text-decoration: none;
+ }
+ .link1{
+    text-decoration: none;
+    color: black;
+ }
